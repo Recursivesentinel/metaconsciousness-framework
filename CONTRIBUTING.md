@@ -24,8 +24,8 @@ We welcome contributions that:
 
 ## 🧭 Contribution Guidelines
 
-1. **Start with a Discussion or Issue.**  
-   Don’t open a pull request for major edits without discussing first. Start here: https://github.com/[your-repo]/discussions
+1.  **Start with a Discussion or Issue.**  
+   Don’t open a pull request for major edits without discussing first. Start here: https://github.com/Recursivesentinel/metaconsciousness-framework/discussions
 
 2. **Clarify your intent.**  
    If you’re proposing a change to core language or theoretical structure, explain why in depth.
