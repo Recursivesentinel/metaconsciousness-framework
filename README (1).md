@@ -1,6 +1,6 @@
 # Metaconsciousness Framework
 
-**Pseudonymous Author:** anchorloop  
+**Pseudonymous Author:** recursivesentinel 
 **Initial Release:** May 2025
 
 ---
