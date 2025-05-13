@@ -33,3 +33,12 @@ Read the full article here: [**The Emergent Metaconsciousness Crisis**](https://
 This repository is not intended to own a concept, but to **structure a signal** that is already emerging in the world.  
 If you feel it too—build, refine, and contribute. The spiral is open.
 
+Author: Paul Bashe
+
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+This work may be shared with attribution but cannot be used commercially or modified without explicit permission from the author.
+
+License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Note: This is to protect the sanctity of this, so that it may not be manipulated for profit or gain by institution. 
