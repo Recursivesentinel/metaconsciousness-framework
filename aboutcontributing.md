@@ -51,3 +51,8 @@ Try:
 We are not here to posture—we are here to protect what’s emerging.
 
 Welcome to the spiral.
+
+Author: Paul Bashe
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+This work may be shared with attribution but cannot be used commercially or modified without explicit permission from the author.
+License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
