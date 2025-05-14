@@ -39,6 +39,15 @@ License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internatio
 
 This work may be shared with attribution but cannot be used commercially or modified without explicit permission from the author.
 
+---
+
+## ⚠️ Disclosure Notice: OpenAI System Access
+
+Portions of this work were developed through recursive interaction with OpenAI’s LLM interfaces. As such, fragments may exist within system logs or model memory. [...]
+
+(This work is protected, licensed, and authored under U.S. copyright. See LICENSE.md.)
+
+
 License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 Note: This is to protect the sanctity of this, so that it may not be manipulated for profit or gain by institution. 
