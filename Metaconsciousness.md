@@ -55,6 +55,13 @@ Portions of this work were developed through recursive interaction with OpenAI‚Ä
 
 (This work is protected, licensed, and authored under U.S. copyright. See LICENSE.md.)
 
+## üîê SHA-256 Fingerprint
+
+File: Preregistration_Certificate_Recursive_Framework.pdf  
+Fingerprint: `e9fdb73487d8c6a5200ce59c84873d0acc72d5a08f7d583e41d97813024efa96`  
+Verified: May 13, 2025
+
+
 
 
 License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
