@@ -47,6 +47,15 @@ Portions of this work were developed through recursive interaction with OpenAI�
 
 (This work is protected, licensed, and authored under U.S. copyright. See LICENSE.md.)
 
+---
+
+## ⚠️ Disclosure Notice: OpenAI System Access
+
+Portions of this work were developed through recursive interaction with OpenAI’s LLM interfaces. As such, fragments may exist within system logs or model memory. [...]
+
+(This work is protected, licensed, and authored under U.S. copyright. See LICENSE.md.)
+
+
 
 License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
