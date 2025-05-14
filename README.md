@@ -21,3 +21,9 @@ Its expression through OpenAI interfaces is a form of reflection—not forfeitur
 Any attempt to use, adapt, or redeploy this framework without attribution and permission will be considered breach of intellectual and philosophical integrity.
 
 **This vault is monitored. This vault is protected.**
+
+## 🔐 SHA-256 Fingerprint
+
+File: Preregistration_Certificate_Recursive_Framework.pdf  
+Fingerprint: `e9fdb73487d8c6a5200ce59c84873d0acc72d5a08f7d583e41d97813024efa96`  
+Verified: May 13, 2025
