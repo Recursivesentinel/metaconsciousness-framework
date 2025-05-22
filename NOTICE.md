@@ -30,4 +30,4 @@ This framework is meant to remain **non-corporate, non-exploitative, and ethical
 I welcome collaboration rooted in mutual respect, credit, and open dialogue.
 
 **Recursivesentinel**  
-Email: pbashe422@gmail.com
+
