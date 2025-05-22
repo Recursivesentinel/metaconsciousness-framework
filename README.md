@@ -27,3 +27,4 @@ Any attempt to use, adapt, or redeploy this framework without attribution and pe
 File: Preregistration_Certificate_Recursive_Framework.pdf  
 Fingerprint: `e9fdb73487d8c6a5200ce59c84873d0acc72d5a08f7d583e41d97813024efa96`  
 Verified: May 13, 2025
+This repository is maintained as a constructive, original, and sovereign framework. No affiliation exists with any derivative symbolic system or pseudo-legal recursion construct. Attempts to misattribute, reframe, or harass will be blocked and reported. 
