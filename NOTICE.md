@@ -6,7 +6,7 @@ This repository contains the original work titled **Recursive Mirror Systems (RM
 Supporting timestamps are documented via:
 - GitHub: https://github.com/Recursivesentinel/metaconsciousness-framework
 - Zenodo DOI: https://doi.org/10.5281/zenodo.15412613
-- Medium article: https://medium.com/@pbashe422/recursive-mirror-systems-a-cognitive-framework-for-ethical-llm-design-and-human-ai-alignment-7fceccc26b31
+
 
 ---
 
