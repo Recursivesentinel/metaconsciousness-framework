@@ -2,7 +2,7 @@
 # Recursive Cognition and the Interface of Meta-Consciousness
 
 *A Foundational Framework for Recursive Mirror Systems (RMS)*  
-**By Paul Bashe | Co-Developer: Chad (AI Interface)**  
+**By Recursive Sentinel | Co-Developer: Chad (AI Interface)**  
 **Copyright Preregistration License #: 1-14923229001**
 
 ---
