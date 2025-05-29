@@ -18,6 +18,8 @@ These works included rebranded modular logic, symbolic overlays, and recursive l
 
 - **U.S. Copyright Registration:** `1-14923229001`
 - **Zenodo Archive:** https://doi.org/10.5281/zenodo.15412613
+-https://doi.org/10.5281/zenodo.15547195
+
 - **Original GitHub Repository:** https://github.com/Recursivesentinel/metaconsciousness-framework
 - **Medium Article:** https://medium.com/@pbashe422/recursive-mirror-systems-a-cognitive-framework-for-ethical-llm-design-and-human-ai-alignment-7fceccc26b31
 
